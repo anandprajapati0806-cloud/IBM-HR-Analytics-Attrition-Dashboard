@@ -68,18 +68,15 @@ The Power BI dashboard is split across 5 pages, each answering a different quest
 
 ## 📁 Repository Structure
 
-├── Data/
-│   ├── hr_analytics_raw.csv        # Original dataset
-│   └── hr_analytics_clean.csv      # Cleaned dataset used for analysis
-├── SQL/
-│   └── IBM_HR_SQL_Analysis.sql     # 13+ queries with findings as comments
-├── PowerBI/
-│   └── IBM_HR_Dashboard.pbix       # Full interactive dashboard
-├── Visuals/
-│   └── (Dashboard page screenshots — all 5 pages)
-├── Report/
-│   └── IBM_HR_Data_Understanding   # Data dictionary and project notes
-└── README.md
+**Data folder** — contains hr_analytics_raw.csv (original dataset) and hr_analytics_clean.csv (cleaned dataset used for analysis)
+
+**SQL folder** — contains IBM_HR_SQL_Analysis.sql with 13+ queries and findings written as comments
+
+**PowerBI folder** — contains IBM_HR_Dashboard.pbix, the full interactive dashboard
+
+**Visuals folder** — contains screenshots of all 5 dashboard pages
+
+**Report folder** — contains IBM_HR_Data_Understanding, the data dictionary and project notes
 
 ---
 
